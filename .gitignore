@@ -1,0 +1,30 @@
+# .gitignore for GitHub Pages portfolio site
+
+# Dependencies
+node_modules/
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Local environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
