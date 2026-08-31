@@ -9,7 +9,7 @@ This is a GitHub Pages portfolio site showcasing data analytics work across thre
 ## How to Use
 
 ### View the Portfolio
-Visit: **http://phoenixclarke.github.io/portfolio**
+Coming Soon: **http://phoenixclarke.github.io/portfolio**
 
 ### Browse Samples
 - Navigate through carousels using arrow buttons or pagination dots
