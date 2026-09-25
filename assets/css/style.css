@@ -109,7 +109,7 @@ body {
 .about h2 {
     color: var(--primary-color);
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .about p {
