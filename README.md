@@ -9,11 +9,12 @@ This is a GitHub Pages portfolio site showcasing data analytics work across thre
 ## How to Use
 
 ### View the Portfolio
-Coming Soon: **http://phoenixclarke.github.io/portfolio**
+**http://phoenixclarke.github.io/portfolio**
 
 ### Browse Samples
 - Navigate through carousels using arrow buttons or pagination dots
 - Click "View Dashboard" or "View Story" to see full PDF embed
+- Click "Live Dashboard" on detail pages to open the published dashboard on Tableau Public
 - Use the back link to return to the main portfolio
 
 ## Portfolio Sections
@@ -88,11 +89,11 @@ portfolio/
 This portfolio site is personal and proprietary. All contained work samples and materials are copyrighted.
 
 ## Contact
-📧 Email: contact@example.com  
+📧 Email: c_phoenix_clarke@yahoo.com  
 🔗 LinkedIn: linkedin.com/in/phoenixclarke
 
 ---
 
-**Last Updated:** 2024  
+**Last Updated:** 2026  
 **Portfolio Site:** Phoenix Baldino-Clarke Data Analytics  
 **Source:** http://phoenixclarke.github.io/portfolio
