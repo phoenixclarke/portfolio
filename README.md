@@ -89,7 +89,7 @@ portfolio/
 This portfolio site is personal and proprietary. All contained work samples and materials are copyrighted.
 
 ## Contact
-📧 Email: c_phoenix_clarke@yahoo.com  
+📧 Email: c.phoenix.clarke@gmail.com  
 🔗 LinkedIn: linkedin.com/in/phoenixclarke
 
 ---
